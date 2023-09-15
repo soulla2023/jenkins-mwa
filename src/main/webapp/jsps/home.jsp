@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Souladot Software Solutions</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions for millions of clients globally.
 	           In addition, We are raising billionaire IT professionals in over 50 nations.
-	We offer Training for DevOps Engineers based on a zero-to-hero perspective in Linux, Kubernetes, and Cloud computing.
+	We offer Quality Training for DevOps Engineers based on a zero-to-hero perspective in Linux, Kubernetes, and Cloud computing.
 	Class 34 DevOps MasterClass will start on Oct 14, 2023. Invite family and friends to take advantage of this life-changing opportunity. </h1>
 <hr>
 <br>
